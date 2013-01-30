@@ -1,5 +1,4 @@
 #include "CommandBase.h"
-#include "Subsystems/Shooter.h"
 #include "Commands/Scheduler.h"
 
 /**

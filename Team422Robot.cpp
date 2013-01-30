@@ -15,7 +15,6 @@
  */
 void Team422Robot::RobotInit() {
 	CommandBase::init();
-	startHopperWheel = new StartHopperWheel();
 	cheesyDrive = new CheesyDrive();
 	liveWindow = LiveWindow::GetInstance();
 }

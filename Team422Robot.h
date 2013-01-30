@@ -8,7 +8,6 @@
 #include "WPILib.h"
 #include "Commands/Command.h"
 #include "CommandBase.h"
-#include "Commands/StartHopperWheel.h"
 #include "Commands/CheesyDrive.h"
 
 /**
