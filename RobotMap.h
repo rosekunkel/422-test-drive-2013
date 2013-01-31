@@ -30,8 +30,8 @@ const UINT8 DIGITAL_MODULE_PORT = 2;
  * @{
  */
 // PWM channels for the drivebase
-const UINT32 LEFT_DRIVE_CHANNEL = 0,
-	         RIGHT_DRIVE_CHANNEL = 0;
+const UINT32 LEFT_DRIVE_CHANNEL = 1,
+	         RIGHT_DRIVE_CHANNEL = 3;
 /**@}*/
 
 #endif // ROBOT_MAP_H
